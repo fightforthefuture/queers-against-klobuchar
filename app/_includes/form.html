@@ -1,0 +1,10 @@
+<dl class="petition">
+    <dt>{{ include.cta }}</dt>
+    <dd>
+      {% include petition.html %}
+      <span class="disclosure">
+        {{ include.disclosure | markdownify }}
+      </span>
+    </dd>
+</dl>
+

@@ -1,0 +1,145 @@
+* {
+    box-sizing: border-box
+}
+
+html, body {
+  font-size: 62.5%;
+  height: 100%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: @body-font;
+  position: relative;
+  background: #fee;
+  padding: 0px 0px;
+  color: black;
+  overflow-x: hidden;
+}
+
+a {
+  color: @link-color;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: @heading-font;
+}
+
+h1 {
+  font-size: 26px;
+  line-height: 1.2em;
+  text-align: center;
+  max-width: @site-max-width;
+  margin: 0px auto 0px auto;
+  font-weight: 600;
+
+
+  strong {
+    color: @link-color;
+  }
+  em {
+    @media screen and (min-width: @site-max-width) {
+      display: block;
+    }
+  }
+
+  @media screen and (min-width: @small-phone) {
+    font-size: 60px;
+    font-weight: bold;
+  }
+
+}
+
+h2 {
+  font-weight: 600;
+  padding-top: 40px;
+  font-size: 20px;
+  max-width: @site-max-width;
+  margin: 0px auto 30px auto;
+  text-align: center;
+
+  @media screen and (min-width: @small-phone) {
+    font-size: 36px;
+  }
+
+  &:first-of-type {
+    padding-top: 0px;
+    @media screen and (min-width: @small-phone) {
+      font-size: 28px;
+      font-weight: bold;
+
+    }
+  }
+}
+
+.paragraph {
+  max-width: 700px;
+  margin: 0px auto 25px auto;
+  text-align: center;
+}
+
+p {
+  .paragraph;
+
+  &:first-of-type {
+    max-width: @site-max-width;
+    font-size: 18px;
+    font-weight: 600;
+
+    @media screen and (min-width: @small-phone) {
+      font-size: 21px;
+    }
+  }
+
+  strong {
+    font-weight: bold;
+  }
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+hr {
+  border-top: 1px solid #152853;
+  border-left: 0px none transparent;
+  border-right: 0px none transparent;
+  border-bottom: 0px none transparent;
+  margin: 40px auto 0px auto;
+  max-width: 200px;
+}
+
+
+div.main {
+  padding: 40px 15px;
+  background: rgba(255, 255, 255, .6);
+  max-width: @site-max-width;
+  margin: 0px auto;
+  box-shadow: 0px 0px 40px white;
+  z-index: 9001;
+
+  @media screen and (min-width: @small-phone) {
+    padding: 40px 40px;
+  }
+}
+#wrapper {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 9001; /* what 9000?! there's no way it can be that high. can it? */
+}
+
+* {margin: 0; padding: 0;}
+body { background-color: #fdd; }
+#rain {position: fixed; width: 100%; height: 100%; overflow: hidden; border: 0px solid black; z-index: 2;}
+#rain img {
+    position: absolute; z-index: 20; opacity: .3;
+
+}
+
+u {
+  text-decoration: underline;
+}

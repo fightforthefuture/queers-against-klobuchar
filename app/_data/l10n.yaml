@@ -1,0 +1,72 @@
+- code:             en
+  lang:             English
+  widget_beginning: We have
+  day_singular:     day
+  day_plural:       days
+  hour_singular:    hour
+  hour_plural:      hours
+  and:              and
+  minute_singular:  minute
+  minute_plural:    minutes
+  widget_ending:    to save Europe's Internet.
+  widget_link_text: Save Net Neutrality
+
+- code:             es
+  page_translation: true
+  lang:             Spanish
+  widget_beginning: Tenemos
+  day_singular:     día
+  day_plural:       días
+  hour_singular:    hora
+  hour_plural:      horas
+  and:              y
+  minute_singular:  minuto
+  minute_plural:    minutos
+  widget_ending:    para salvar el Internet en Europa.
+  widget_link_text: Salva la neutralidad de la red
+
+- code:             de
+  page_translation: true
+  lang:             German
+  widget_beginning: Wir haben
+  day_singular:     Tag
+  day_plural:       Tage
+  hour_singular:    Stunde
+  hour_plural:      Stunden
+  and:              und
+  minute_singular:  Minute
+  minute_plural:    Minuten
+  widget_ending:    Zeit, um das Internet in Europa zu retten.
+  widget_link_text: Rettet die Netzneutralität
+
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !! TRANSLATION NEEDED BELOW !!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+- code:             fr
+  page_translation: false
+  lang:             French
+  widget_beginning: Tenemos
+  day_singular:     día
+  day_plural:       días
+  hour_singular:    hora
+  hour_plural:      horas
+  and:              and
+  minute_singular:  minuto
+  minute_plural:    minutos
+  widget_ending:    para salvar la Internet en Europea.
+  widget_link_text: Salva neutralidad
+
+- code:             it
+  page_translation: false
+  lang:             Italian
+  widget_beginning: Tenemos
+  day_singular:     día
+  day_plural:       días
+  hour_singular:    hora
+  hour_plural:      horas
+  and:              and
+  minute_singular:  minuto
+  minute_plural:    minutos
+  widget_ending:    para salvar la Internet en Europea.
+  widget_link_text: Salva neutralidad
