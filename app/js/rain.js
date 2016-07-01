@@ -93,7 +93,6 @@ var rain	=	new Class({
 			transform: 'translate(0, 0) rotate(0deg)',
 			zIndex:	img.size
 		});
-    console.log('img.style:', img.style);
 
 		img.inject(this.container, 'bottom');
 
