@@ -83,18 +83,25 @@ h2 {
 p {
   .paragraph;
 
-  &:first-of-type {
-    max-width: @site-max-width;
-    font-size: 18px;
-    font-weight: 600;
 
-    @media screen and (min-width: @small-phone) {
-      font-size: 21px;
-    }
-  }
 
   strong {
     font-weight: bold;
+  }
+}
+
+ul {
+
+  list-style-type: disc;
+  max-width: (@site-max-width - 250px);
+  margin: 0px auto;
+}
+
+li {
+  .paragraph;
+  margin-left: 25px;
+  p {
+    text-align: left;
   }
 }
 
@@ -123,6 +130,18 @@ div.main {
 
   @media screen and (min-width: @small-phone) {
     padding: 40px 40px;
+  }
+
+  > p {
+    &:first-of-type {
+      max-width: @site-max-width;
+      font-size: 18px;
+      font-weight: 600;
+
+      @media screen and (min-width: @small-phone) {
+        font-size: 21px;
+      }
+    }
   }
 }
 #wrapper {

@@ -44,15 +44,23 @@ We are disgusted that Republican war-hawks in Congress have exploited the Pulse 
 [Tweet this](https://twitter.com/intent/tweet?text=http%3A%2F%2Fwww.savenetneutrality.eu){: .tweet}
 [Donate](https://donate.fightforthefuture.org/?tag=quak){: .donate}
 
+![](/images/klobuchar_shame.png)
+
 ## Mass surveillance will not stop violence against Black and Brown queer bodies.
 
-People who are in favor of increased surveillance most often argue that it shouldn’t be a problem if “they have nothing to hide.” But surveillance is not triggered by what you have done, but who you are and what you believe. It is, essentially, discriminatory and abusive.
+We know from history and experience that state surveillance disproportionately affects queer people and people of color.
 
-We know from history and experience that state surveillance disproportionately affects queer people and people of color. Think of the [police surveillance](http://www.thestonewallinnnyc.com/StonewallInnNYC/HISTORY.html), harassment and raids that led to the Stonewall Riot that was honored at Pride celebrations not a week after the attack in Orlando. [Trans women](https://www.aclu.org/blog/arrested-walking-while-trans-interview-monica-jones?redirect=blog/lgbt-rights-criminal-law-reform-hiv-aids-reproductive-freedom-womens-rights/arrested-walking) of color are profiled as sex workers, and men meeting in [parks](http://www.latimes.com/local/lanow/la-me-gay-stings-police-20160527-snap-story.html) have been targets of sting operations. The [Lavender Scare](http://www.out.com/entertainment/popnography/2013/04/26/9-things-to%C2%A0know-about-lavender-scare) in the 1950’s and the [Sex Deviant](http://www.nytimes.com/2014/05/21/us/politics/uncovered-papers-show-past-government-efforts-to-drive-gays-from-jobs.html?_r=0) program that the FBI oversaw for decades collected massive amounts of data on government workers suspected and accused of being gay, and used the data to discredit, fire and otherwise harass workers, putting them in extreme danger. Think of how non-violent activist Bayard Rustin was subjected to extreme intelligence efforts via [COINTELPRO](http://www.democracynow.org/2014/1/8/it_was_time_to_do_more) for being both gay and Black and still wanting to be free.
+* [Police surveillance](http://www.thestonewallinnnyc.com/StonewallInnNYC/HISTORY.html), harassment and raids were the catalyst that led to Queer and Trans people of color the Stonewall Riot that was honored at Pride celebrations not a week after the attack in Orlando.
+
+* The [Lavender Scare](http://www.out.com/entertainment/popnography/2013/04/26/9-things-to%C2%A0know-about-lavender-scare) in the 1950’s and the [Sex Deviant](http://www.nytimes.com/2014/05/21/us/politics/uncovered-papers-show-past-government-efforts-to-drive-gays-from-jobs.html?_r=0) program that the FBI oversaw for decades collected massive amounts of data on government workers suspected and accused of being gay, and used the data to discredit, fire and otherwise harass workers, putting them in extreme danger.
+
+* Non-violent Civil Rights activist Bayard Rustin was subjected to extreme intelligence efforts via [COINTELPRO](http://www.democracynow.org/2014/1/8/it_was_time_to_do_more) for being both gay and Black and still wanting to be free.
+
+* Currently, [trans women](https://www.aclu.org/blog/arrested-walking-while-trans-interview-monica-jones?redirect=blog/lgbt-rights-criminal-law-reform-hiv-aids-reproductive-freedom-womens-rights/arrested-walking) of color are profiled as sex workers, and men meeting in [parks](http://www.latimes.com/local/lanow/la-me-gay-stings-police-20160527-snap-story.html) have been targets of sting operations.
+
+* Organizers and activists in the movement for Black lives are being [heavily surveilled](http://www.motherjones.com/politics/2015/07/homeland-security-surveillance-black-lives-matter) not just in protest but also at home and at music and cultural events.
 
 We implore our nation’s leaders to STOP expanding warrantless mass surveillance, and to STOP exploiting tragedies in LGBT communities in order to pass legislation that will hurt us more than nearly anyone else.
-
-![](/images/klobuchar_shame.png)
 
 ## What did Klobuchar do?
 
