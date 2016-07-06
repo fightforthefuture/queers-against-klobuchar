@@ -38,7 +38,7 @@ We are disgusted that Republican war-hawks in Congress have exploited the Pulse 
   opt_in="Subscribe to campaign updates from Fight for the Future. [Privacy Policy](https://www.fightforthefuture.org/privacy)"
 %}
 
-### ![](/images/heart.png) Thanks for sending your comment. Please share this site as widely as possible to help win this fight!
+### ![](/images/heart.png) Thanks for sending your comment. We will automatically fax it to Senator Klobuchar's office in Minneapolis. Please share this site as widely as possible to help win this fight!
 
 [Share this](https://www.facebook.com/sharer/sharer.php?u=http://www.savenetneutrality.eu){: .share}
 [Tweet this](https://twitter.com/intent/tweet?text=http%3A%2F%2Fwww.savenetneutrality.eu){: .tweet}
